@@ -7,8 +7,8 @@ students, without opening the whole TaniX app. You stay signed in.
 
 | Your Mac | Click to download |
 |---|---|
-| **Apple chip** (M1, M2, M3, M4; most Macs from 2021 on) | **[Download for Apple chip Mac (.dmg, 129 MB)](https://github.com/Samsontanimawo/TaniX-Chat-macOS/releases/latest/download/TaniX-Chat-1.0.2-mac-arm64.dmg)** |
-| **Intel chip** (older Macs) | **[Download for Intel Mac (.dmg, 136 MB)](https://github.com/Samsontanimawo/TaniX-Chat-macOS/releases/latest/download/TaniX-Chat-1.0.2-mac-x64.dmg)** |
+| **Apple chip** (M1, M2, M3, M4; most Macs from 2021 on) | **[Download for Apple chip Mac (.dmg, 129 MB)](https://github.com/Samsontanimawo/TaniX-Chat-macOS/releases/latest/download/TaniX-Chat-1.0.3-mac-arm64.dmg)** |
+| **Intel chip** (older Macs) | **[Download for Intel Mac (.dmg, 136 MB)](https://github.com/Samsontanimawo/TaniX-Chat-macOS/releases/latest/download/TaniX-Chat-1.0.3-mac-x64.dmg)** |
 
 Not sure which Mac you have? Apple menu  → **About This Mac**: "Chip Apple M…" = Apple chip, "Processor Intel" = Intel.
 Then follow **Install** and **The first time you open it** below.
@@ -56,6 +56,7 @@ tanimawoaiacademy@gmail.com. Windows version: [TaniX-Chat-Windows](https://githu
 
 Newest first. Add one line per change.
 
+- **2026-11-04** 1.0.3: quiet hours (pause for an hour, until morning, or every night) and Ctrl/Cmd+Shift+Space to show or hide TaniX Chat from anywhere. Download links point to 1.0.3.
 - **2026-11-04** 1.0.2: notifications you can reply to. A new direct message or @mention shows with a Reply box, and clicking it opens the chat. Installed copies are offered the download. Download links point to 1.0.2.
 - **2026-11-04** 1.0.1: the new TaniX Chat logo (the robot in a graduation cap with "CHAT") is the app icon. Download links point to 1.0.1.
 - **2026-11-04** First public Mac download: TaniX Chat 1.0.0 for Apple chip and Intel. Built by the private
